@@ -214,4 +214,4 @@ footer span { color: var(--gold); }
 .term-out { color: var(--muted); padding-left: 0.5rem; display: block; }
 .term-key { color: var(--gold); }
 
-* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}
+* { box-sizing: border-box; } body {margin: 0;}
